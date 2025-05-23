@@ -3,7 +3,7 @@
 Nama : Septian Eka Rahmadi 
 NIU : 496732  
 Sesi : 1
-Secret String : [SECRET_STRING]
+Secret String : 8ff0e0bc6da9c7cf89100b0e018a68c4d318b6eb3a4fac9cb6699d12ebd71b5820250523013615
 
 ## Checklist Responsi
 
