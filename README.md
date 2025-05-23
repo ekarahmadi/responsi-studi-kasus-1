@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
+Nama : Septian Eka Rahmadi 
+NIU : 496732  
+Sesi : 1
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
